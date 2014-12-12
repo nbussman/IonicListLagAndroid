@@ -1,0 +1,1 @@
+Scrolling on Android is really sloppy. Code example for http://forum.ionicframework.com/t/android-scrolling-lag/13975
