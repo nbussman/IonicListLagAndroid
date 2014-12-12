@@ -1,0 +1,28 @@
+/* Empty. Add your own CSS if you like */
+.div_item_cover {
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	width: 80px;
+	height: 80px;
+	background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #a1bded;
+    background-position: 50% 50%;
+}
+
+.short_name {
+	margin:27px 0 0 0;
+	width:80px;
+	text-align: center;
+	font-size:40px;
+	color: #fff;
+	-webkit-transform: rotate(-35deg);
+	-o-transform: rotate(-35deg); 
+	transform: rotate(-35deg); 
+}
+
+.scroll-item {
+	right:0;
+	left:0;
+}
