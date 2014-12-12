@@ -110,4 +110,7 @@ angular.module('starter.controllers', [])
     //Make evenly indexed items be 10px taller, for the sake of example
     return 100;//(index % 2) === 0 ? 50 : 60;
   };
+})
+
+.controller('PlaylistCtrl', function($scope, $stateParams) {
 });
